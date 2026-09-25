@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.DS_Store
+node_modules/
+.next/
+out/
+dist/
+coverage/
+__pycache__/
+*.pyc
+*.log
+secrets/
+credentials/
